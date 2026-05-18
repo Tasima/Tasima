@@ -47,13 +47,7 @@ A website built with a React, Three.js and GSAP to implement modern website desi
 
 ## Tech Skills
 
-React
-SvelteKit
-TypeScript
-Python
-Java
-Spring
-Kotlin 
+React | SvelteKit | TypeScript | Python | Java | Spring | Kotlin 
 
 
 ## Awards

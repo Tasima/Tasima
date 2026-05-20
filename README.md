@@ -41,9 +41,10 @@ I've been going through a bunch a courses related to web design, cybersecurity a
 NEXA 
 An offline-first android chat application with delay-tolerant networking and an optional cloud sync
 
+<!--
 3D Website
 A website built with a React, Three.js and GSAP to implement modern website design practices like 3d modelling, scroll-based storytelling and performance optimization for both mobile and desktop 
-
+-->
 
 ## Tech Skills
 

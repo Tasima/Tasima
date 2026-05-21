@@ -50,6 +50,9 @@ A website built with a React, Three.js and GSAP to implement modern website desi
 
 React | SvelteKit | TypeScript | Python | Java | Spring | Kotlin 
 
+Distributed Systems | Networking | Encryption | Algorithms | Data Structures 
+
+Design Patterns | System Design | Architecture Patterns
 
 ## Awards
 

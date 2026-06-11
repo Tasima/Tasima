@@ -64,11 +64,7 @@ Design Patterns | System Design | Architecture Patterns
 ESEFA Certification (Enterprise fundamentals with SAP S/4HANA)
 SAP Rise Methodology
 Cisco NetCad Ethical Hacker
-
-## Courses 
-
-Currently pursuing my SAP Implementation Consultant certification 
-
+SAP Implementation Consultant
 
 
 

@@ -59,4 +59,4 @@ intended — including when the verification contradicts me.
 
 ---
 
-📍 Harare, Zimbabwe · [tasima.dev](https://tasima.dev) · [LinkedIn](https://www.linkedin.com/in/tasimahapazari) · [email](tasimahapaz@gmail.com)
+📍 Harare, Zimbabwe · [tasima.dev](https://tasima.dev) · [LinkedIn](https://www.linkedin.com/in/tasimahapazari) 

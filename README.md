@@ -13,7 +13,7 @@ automation.
 
 ## Selected work
 
-### NEXA — offline-first Android messaging
+### NEXA - offline-first Android messaging
 Peer-to-peer chat for environments with unreliable or absent internet. Kotlin,
 Google Nearby Connections, libsodium for end-to-end encryption, and a
 delay-tolerant routing layer that selects its forwarding strategy by network
@@ -28,9 +28,9 @@ Field-measured across multiple physical devices:
 | Duplicate deliveries | < 2.5% |
 | Battery draw while relaying | ~4.7% / hr |
 
-Apache-2.0. → [Repository](https://github.com/Tasima/NEXA)
+Apache-2.0. → [Repository](https://github.com/Tasima/NEXA-offline-messenger)
 
-### Cuppa La Var — retail launch stack
+### Cuppa La Var - retail launch stack
 A full commercial build for a coffee retailer, designed around the spreadsheet
 workflow they already used rather than against it. React storefront with secure
 onboarding, SvelteKit operations dashboard, Supabase with row-level security,

@@ -1,75 +1,62 @@
-
-
-<!--
-**Tasima/Tasima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
- <!-- 
- Specific language skills
-Favorite projects you're building
-Open source contributions
-Technical blogs, videos, talks, or content you've created
-Awards or recognitions you've received
-Books you're reading
-Courses you're taking
-Links to other profiles (LinkedIn, Twitter, etc.)
- 
- -->
-
- 
-
 # Tasima Siphosethu Hapazari
 
+**Aspiring Product engineer.** I take an underspecified idea, design the system, and ship it
+to production — end to end.
 
-*I'm a Computer Science and Business Computing/Information Systems graduate with a BSc from the University of Cape Town*
+BSc Computer Science & Business Computing, University of Cape Town.
+Currently on the technical graduate programme at a Zimbabwean ISP (deployment
+automation, monitoring, internal tooling). Outside that I build web products for
+small businesses — storefronts, operations dashboards, and customer-service
+automation.
 
-I've been going through a bunch a courses related to web design, cybersecurity and mobile development. Ask me about them!!!
-## Projects
+---
 
-NEXA 
-An offline-first android chat application with delay-tolerant networking and an optional cloud sync
+## Selected work
 
-<!--
-3D Website
-A website built with a React, Three.js and GSAP to implement modern website design practices like 3d modelling, scroll-based storytelling and performance optimization for both mobile and desktop 
--->
+### NEXA — offline-first Android messaging
+Peer-to-peer chat for environments with unreliable or absent internet. Kotlin,
+Google Nearby Connections, libsodium for end-to-end encryption, and a
+delay-tolerant routing layer that selects its forwarding strategy by network
+density — Spray-and-Wait for one-to-one, Epidemic for groups.
 
-## Tech Skills
+Field-measured across multiple physical devices:
 
-React | SvelteKit | TypeScript | Python | Java | Spring | Kotlin 
+| Metric | Result |
+|---|---|
+| Peer discovery | ~3.8 s |
+| Delivery, three hops | 11.2 s |
+| Duplicate deliveries | < 2.5% |
+| Battery draw while relaying | ~4.7% / hr |
 
-Distributed Systems | Networking | Encryption | Algorithms | Data Structures 
+Apache-2.0. → [Repository](https://github.com/Tasima/NEXA)
 
-Design Patterns | System Design | Architecture Patterns
+### Cuppa La Var — retail launch stack
+A full commercial build for a coffee retailer, designed around the spreadsheet
+workflow they already used rather than against it. React storefront with secure
+onboarding, SvelteKit operations dashboard, Supabase with row-level security,
+Gemini-backed sales insights, and a scheduled agent that audits the site's SEO
+weekly and reports back.
 
-## Awards
+---
 
-2021 Dean's List at UCT 
+## What I work with
 
+**Building with now** — TypeScript · React · Next.js · SvelteKit · Node ·
+PostgreSQL / Supabase · Docker
 
-## Certifications
+**Shipped with before** — Kotlin (Android) · Python · Java
 
-ESEFA Certification (Enterprise fundamentals with SAP S/4HANA)
-SAP Rise Methodology
-Cisco NetCad Ethical Hacker
-SAP Implementation Consultant
+**Systems** — system design · distributed systems · delay-tolerant networking ·
+applied cryptography · networking fundamentals · Linux · CI/CD
 
+---
 
+## How I work
 
+I write the design before I write the code: options considered, trade-offs,
+decision, and what I'd revisit. I'm explicit about what's verified versus what's
+intended — including when the verification contradicts me.
 
+---
 
-
-
- 
+📍 Harare, Zimbabwe · [tasima.dev](https://tasima.dev) · [LinkedIn](…) · [email](…)

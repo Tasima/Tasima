@@ -15,6 +15,10 @@ Customer payments were being matched and receipted into the billing system by ha
 ### NEXA — offline-first Android messaging (university capstone)
 Peer-to-peer chat for places with unreliable or no internet. Kotlin, Google Nearby Connections, libsodium for end-to-end encryption, and a delay-tolerant routing layer: Spray-and-wait routing for 1:1 messaging and Epidemic routing for group chats.
 
+### SOLID-ZOHO Sales Reconicilation - linking a billing platform and CRM (Zoho CRM)
+Built a Solid–Zoho reconciliation platform that checks each Closed Won deal against its service-delivery ticket using browser automation, writes the result back to Zoho, and flags missing contracts, cancelled orders and stalled tickets in a daily sweep.
+Since the billing platform SOLID has no open API available, working with the SOLID platform required using browser automation (I used Vercel's agent-browser library) along with an API and Webhook setup from ZOHO
+
 Measured on 4 physical devices:
 
 | Metric | Result |
